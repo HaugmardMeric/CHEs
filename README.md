@@ -1,7 +1,8 @@
+[![LGPLv3](https://www.gnu.org/graphics/lgplv3-88x31.png)](https://www.gnu.org/licenses/lgpl.html)
 [![DOI](https://zenodo.org/badge/23700/HaugmardMeric/CHEs.svg)](https://zenodo.org/badge/latestdoi/23700/HaugmardMeric/CHEs)
 
 
-# toto a la plage
+# Programme 
 
 cf [notice](https://github.com/HaugmardMeric/CHEs/blob/master/DOC/notice.pdf)
 
