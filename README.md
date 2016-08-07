@@ -1,3 +1,4 @@
+% markdown 
 [![GPLv3](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl.html)
 [![DOI](https://zenodo.org/badge/23700/HaugmardMeric/CHEs.svg)](https://zenodo.org/badge/latestdoi/23700/HaugmardMeric/CHEs)
 
@@ -6,11 +7,11 @@
 
 
 
-    Ce programme permet la localisation hypocentrale d’événements locaux ou régionaux 
+    Ce programme permet la localisation hypocentrale d’événements locaux ou régionaux 
     (longitudes, latitudes, profondeurs et temps initiaux) ainsi que la définition 
     d’un modele de terre (vitesse, profondeur des interfaces, ...) par inversion 
     stochastique de type Monte-Carlo, par chaînes de Markov, 
-    grâce aux données de temps d’arrivées des ondes directes (Pg et Sg) et réfractées (Pn et Sn).
+    grâce aux données de temps d’arrivées des ondes directes (*P*g et *S*g) et réfractées (*P*n et *S*n).
  
  
 ## Documentation :
