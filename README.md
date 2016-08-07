@@ -1,4 +1,4 @@
-<! markdown stackedit
+<!-- markdown stackedit -->
 [![GPLv3](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl.html)
 [![DOI](https://zenodo.org/badge/23700/HaugmardMeric/CHEs.svg)](https://zenodo.org/badge/latestdoi/23700/HaugmardMeric/CHEs)
 
