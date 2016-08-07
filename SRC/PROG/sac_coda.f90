@@ -38,7 +38,7 @@ program coda
   type(date_sec) :: tpsref
   real(KIND=wr) :: ttp,tts,deltatps
   real(KIND=wr) :: AmpliTot,AmpliMin,AmpliMax,AmpliNORM
-  real(KIND=wr) :: ML,moyP,ecP,moyS
+  real(KIND=wr) :: Md,moyP,ecP,moyS
   integer(KIND=wi) :: i, n, jD, numero,nP, nS
   character (LEN=5) :: nbseisme
   logical :: existe1
@@ -171,7 +171,7 @@ program coda
             moyS=moyS+real(abs(sacfile(j+1+i)),wr)
           enddo
           moyS=moyS/real(n,wr)
-          call difftime(deltatps,Ml,ref%tpsR,tps0)
+          call difftime(deltatps,Md,ref%tpsR,tps0)
           write(2,*) pick%dhypo+moyS,deltatps
           if ((tts.le.0.0_wr).and.(moyS.lt.(2.0_wr*(moyP+0.0_wr*ecP)))) then ! après la première S
             ! magnitude durée (Md), la fin de la coda = la moitié du bruit avant le séisme, cf :
@@ -193,8 +193,8 @@ program coda
             open(UNIT=101,FILE="OUTPUT/files/mag-"//trim(adjustl(nbseisme))//".d",STATUS='new')
           endif
           ! formule de Lee et al. (1972)
-          Ml = -0.87_wr + 2.0_wr*log10(real(ns,wr)*real(delta1,wr)) + 0.0035_wr*pick%depi
-          write(101,10011)kstnm,Ml,real(ns,wr)*real(delta1,wr),pick%depi
+          Md = -0.87_wr + 2.0_wr*log10(real(ns,wr)*real(delta1,wr)) + 0.0035_wr*pick%depi
+          write(101,10011)kstnm,Md,real(ns,wr)*real(delta1,wr),pick%depi
           close(101)
       endif
       ! ----------------------------------------------------------------    .
