@@ -16,9 +16,9 @@
  
 ## Documentation :
  
-    voir [notice](https://github.com/HaugmardMeric/CHEs/blob/master/DOC/notice.pdf) (1,2 Mo)
+voir [notice](https://github.com/HaugmardMeric/CHEs/blob/master/DOC/notice.pdf) (1,2 Mo)
 
-    voir [scripts](https://github.com/HaugmardMeric/CHEs/blob/master/DOC/EDITscripts.pdf) (2,7 Mo)
+voir [scripts](https://github.com/HaugmardMeric/CHEs/blob/master/DOC/EDITscripts.pdf) (2,7 Mo)
 
 ## Référence :
 
@@ -30,7 +30,7 @@
 
 ## Exemples de détermination :
 
-    [2011.07.03T16h46.22-1.pdf](https://github.com/HaugmardMeric/CHEs/blob/master/DOC/2011.07.03T16h46.22-1.pdf) (28,2 Mo)
+[2011.07.03T16h46.22-1.pdf](https://github.com/HaugmardMeric/CHEs/blob/master/DOC/2011.07.03T16h46.22-1.pdf) (28,2 Mo)
 
 
 
