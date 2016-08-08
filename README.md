@@ -37,3 +37,4 @@ voir [scripts](https://github.com/HaugmardMeric/CHEs/blob/master/DOC/EDITscripts
  This program is distributed for research purposes and in the hope that it will be useful however without any warranties. Use it on your own risk. Please, use issue panel to report bugs/improvements/...    
  
  
+voir [page perso.](http://www.sciences.univ-nantes.fr/lpgnantes/index.php?option=com_content&view=article&id=901:meric-haugmard&catid=29:pages-personnelles&Itemid=165&lang=fr) 
