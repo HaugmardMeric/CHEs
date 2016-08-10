@@ -1,6 +1,6 @@
 <!-- markdown stackedit -->
 [![GPLv3](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl.html)
-[![DOI](https://zenodo.org/badge/23700/HaugmardMeric/CHEs.svg)](https://zenodo.org/badge/latestdoi/23700/HaugmardMeric/CHEs)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.59806.svg)](http://dx.doi.org/10.5281/zenodo.59806)
 
 
 # Programme CHEs (Compute Hypocentral EventS)

@@ -6,7 +6,7 @@
 # pointe sur le accelerogrammes :
 pointe=ACC
 # sur les séisme num :
-seisme=2
+seisme=1
 ############################################################# pick les ondes
 #  Pg (T1-2) Pn (T5-6) Sg (T3-4) Sn (T7-8)
 # --- #

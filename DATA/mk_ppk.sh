@@ -6,7 +6,7 @@
 # pointe sur le accelerogrammes :
 pointe=ACC
 # sur les séisme num :
-seisme=2
+seisme=1
 #############################################################
 cat *-$seisme.dat > datafile.d
 ############################################################# recherches sous toutes les stations
