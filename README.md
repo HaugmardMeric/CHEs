@@ -22,7 +22,7 @@ voir [scripts](https://github.com/HaugmardMeric/CHEs/blob/master/DOC/EDITscripts
 
 ## Référence :
 
-    article en cours de soumission à Geophysical Journal International :
+    article en cours de rédaction :
     
     Local and regional scale joint probabilistic determination of seismic source location and structure
     Méric Haugmard, Éric Beucler et Antoine Mocquet
