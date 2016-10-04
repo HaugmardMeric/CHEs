@@ -20,6 +20,8 @@ voir [notice](https://github.com/HaugmardMeric/CHEs/blob/master/DOC/notice.pdf) 
 
 voir [scripts](https://github.com/HaugmardMeric/CHEs/blob/master/DOC/EDITscripts.pdf) (2,7 Mo)
 
+Les dossiers (BIN/ et SRC/lib/) du "Latest release" ne sont pas téléchargés (car ils sont vides) ; il faut donc les ajouter, à la main, afin de pouvoir compiler sans message d'erreur.
+
 ## Référence :
 
     article en cours de rédaction :
