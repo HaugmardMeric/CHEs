@@ -35,7 +35,7 @@ FOBJ5=lib/mod_sac_io.o lib/modparam.o lib/types.o lib/time.o lib/stat.o lib/lect
 
 # --------------------- makes -------------------------- #
 
-all: rmv1 mess1 coldruns hotruns rmv2 mess2
+all: rmv1 mess1 coldruns hotruns plot apriori others otherssac rmv2 mess2
 
 coldruns: che_coldruns_init che_coldruns che_coldruns_syn
 hotruns: che_hotruns_init che_hotruns che_hotruns_syn
