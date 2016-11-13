@@ -24,6 +24,11 @@ Les dossiers (BIN/ et SRC/lib/) du "Latest release" ne sont pas téléchargés (
 
 ## Référence :
 
+
+
+manuscrit de thèse : [these_mH_f.pdf](https://github.com/HaugmardMeric/CHEs/blob/master/DOC/these_mH_f.pdf) (48,5 Mo)
+
+
     article en cours de rédaction :
     
     Local and regional scale joint probabilistic determination of seismic source location and structure
