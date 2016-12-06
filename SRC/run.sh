@@ -48,10 +48,9 @@ mkdir OUTPUT/input
 mkdir OUTPUT/GMT
 mkdir OUTPUT/LATEX
 #####################################################################
-cd DATA
-ls -f *.dat > seismes.d 2>/dev/null
-cd ..
-
+#cd DATA
+#ls -f *.dat > seismes.d 2>/dev/null
+#cd ..
 #####################################################################
 head -1 PARAM/iteration.d > toto.d
 read nbchainecold itercold < toto.d
@@ -93,6 +92,7 @@ cp PARAM/paramHypo.d OUTPUT/input/paramHypo.d 2>/dev/null
 cp PARAM/paramTerre.d OUTPUT/input/paramTerre.d 2>/dev/null
 cp PARAM/iteration.d OUTPUT/input/iteration.d
 cp DATA/*.d OUTPUT/input/
+cp DATA/*.dat OUTPUT/input/
 #####################################################################
 # execution des scripts GMT
 chmod +x OUTPUT/GMT/script.sh
